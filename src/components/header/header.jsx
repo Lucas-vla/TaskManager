@@ -1,5 +1,5 @@
 // ce composant est utilisé pour afficher l'en-tête de l'app
-import styles from "./header.module.css";
+import styles from "./Header.module.css";
 import reactLogo from "../../assets/react.svg";
 
 export const Header = () => {
